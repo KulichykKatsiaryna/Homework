@@ -6,7 +6,7 @@
 
 .night__city-pic {
     height: 60vh;
-    width: 2500px;
+    width: 3000px;
     object-fit: cover;
     transition: 1s all linear;
 }
