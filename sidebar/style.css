@@ -1,7 +1,7 @@
 .wrapper {
     height: 100vh;
     width: 100%;
-    background: url(https://static.mk.ru/upload/entities/2021/05/21/18/articles/facebookPicture/e7/22/1b/fe/eafaf7cb7f4bdcbb1452fda1e627c3fc.jpg) no-repeat center;
+    background: url(https://phonoteka.org/uploads/posts/2021-07/1625711788_6-phonoteka-org-p-krasivie-arti-kosmosa-krasivo-6.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -31,7 +31,7 @@ i, .about__text {
 }
 
 .sidebar___about:hover, .sidebar___about:hover i, .sidebar___about:hover>.about__text {
-    color: red;
+    color: rgb(221, 0, 255);
     background-color: black;
 }
 
